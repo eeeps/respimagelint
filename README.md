@@ -1,8 +1,10 @@
 ## 🚨 eeeps’ fork 🚨
 
-The real, official, supported project lives here: [github.com/ausi/respimagelint](https://github.com/ausi/respimagelint).
+The real, official (supported!) project lives here: [github.com/ausi/respimagelint](https://github.com/ausi/respimagelint).
 
-I made this little fork in order to resize tested viewports *one* `px` at a time (the original bookmarklet resizes in `20px` steps). This makes the `sizes` that the tool suggests slightly more accurate, at the cost of making the bookmarklet 20× slower.
+But you can install this (unsupported!) bookmarklet by going *here*: [eeeps.github.io/respimagelint](https://eeeps.github.io/respimagelint)
+
+I forked the original in order to resize tested viewports *one* `px` at a time (the original bookmarklet resizes in `20px` steps). This makes the `sizes` that the tool suggests slightly more accurate, at the cost of making the bookmarklet 20× slower.
 
 ![A graphic comparing the `sizes` output of the two versions](https://eric-cloudinary-res.cloudinary.com/image/upload/v1537971805/forked_respimagelint_explainer.png)
 

@@ -2,7 +2,7 @@
 
 The real, official, supported project lives here: [github.com/ausi/respimagelint](https://github.com/ausi/respimagelint).
 
-I made this hacky little fork to get the tool to collect/measure image sizes while resizing the viewport *one* `px` at a time (the original bookmarklet resizes in `20px` steps). This makes the `sizes` that the tool suggests slightly more accurate, at the cost of making running the bookmarklet 20× slower.
+I made this little fork in order to resize tested viewports *one* `px` at a time (the original bookmarklet resizes in `20px` steps). This makes the `sizes` that the tool suggests slightly more accurate, at the cost of making the bookmarklet 20× slower.
 
 # RespImageLint - Linter for Responsive Images
 

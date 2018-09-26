@@ -2,7 +2,7 @@ import setStyles from '../util/setStyles';
 
 const minWidth = 300;
 const maxWidth = 3000;
-const stepSize = 20;
+const stepSize = 1;
 const aspectRatios = [16 / 9, 3 / 4];
 
 export default function readDimensions(iframe, data, progress) {

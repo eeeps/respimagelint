@@ -1,6 +1,6 @@
 ## 🚨 eeeps’ fork 🚨
 
-The real, official (supported!) project lives here: [github.com/ausi/respimagelint](https://github.com/ausi/respimagelint).
+The real, official (supported!) project lives here: [github.com/ausi/respimagelint](https://github.com/ausi/respimagelint)
 
 But you can install this forked (unsupported!) bookmarklet by going *here*: [eeeps.github.io/respimagelint](https://eeeps.github.io/respimagelint)
 

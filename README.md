@@ -1,10 +1,16 @@
+## 🚨 eeeps’ fork 🚨
+
+The real, official, supported project lives here: [github.com/ausi/respimagelint](https://github.com/ausi/respimagelint).
+
+I made this hacky little fork to get the tool to collect/measure image sizes while resizing the viewport *one* `px` at a time (the original bookmarklet resizes in `20px` steps). This makes the `sizes` that the tool suggests slightly more accurate, at the cost of making running the bookmarklet 20× slower.
+
 # RespImageLint - Linter for Responsive Images
 
 RespImageLint is a bookmarklet that checks images of a webpage against a list of common mistakes and best practises.
 
 ## Usage
 
-Go to [ausi.github.io/respimagelint](https://ausi.github.io/respimagelint/), add the bookmarklet to your browser toolbar and run it on your website.
+Go to [eeeps.github.io/respimagelint](https://eeeps.github.io/respimagelint/), add the bookmarklet to your browser toolbar and run it on your website.
 
 ## Browser Support
 
